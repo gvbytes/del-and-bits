@@ -38,6 +38,3 @@ Compare the output with the matching value in `CHECKSUMS.md`.
 
 The Windows installer metadata identifies the product as `del&bits` and describes it as a privacy-first Windows cleanup and file organization assistant.
 
-## Notes
-
-This repository intentionally keeps the description simple and factual. It only describes what is present in the released installer files.
