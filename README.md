@@ -2,6 +2,8 @@
 
 del&bits is a Windows cleanup and file organization assistant by **Gaurav Verma**. This repository is used to publish installer builds, keep release notes tidy, and provide checksums for verification.
 
+The application is still in active development. Future builds will continue to refine the Windows cleanup and file organization workflow.
+
 ## Download
 
 The latest installer is published on the Releases page:
